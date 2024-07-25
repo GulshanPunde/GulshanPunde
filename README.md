@@ -1,7 +1,3 @@
-Here's an attractive README file for your GitHub profile:
-
----
-
 # Hi there, I'm Gulshan Punde! 👋
 
 **Full Stack Developer**
@@ -14,15 +10,15 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a knack
 - 🌱 I’m constantly learning and exploring new technologies.
 - 👯 I’m looking to collaborate on exciting and innovative projects.
 - 💬 Ask me about anything related to web development.
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [gulshanpunde1@gmail.com]
 - ⚡ Fun fact: I love solving complex problems and turning ideas into reality!
 
 ## 🛠️ Technologies & Tools
 
-- **Front-end:** HTML, CSS, JavaScript, React, Bootstrap
-- **Back-end:** Node.js, Express.js, MongoDB, MySQL
-- **Version Control:** Git, GitHub
-- **Other Tools:** Docker, AWS, Jenkins
+- **Front-end:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind.
+- **Back-end:**  JEE(Jakarta Enterprise Edition) ,MySQL ,Oracle ,Spring, Spring-Boot.
+- **Version Control:** Git, GitHub.
+- **Other Tools:** Docker, VsCode, Netbeans, IntelliJ IDEA.
 
 ## 📈 GitHub Stats
 
@@ -30,10 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a knack
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](www.linkedin.com/in/gulshan-punde-106224252)
+- [Twitter]([https://twitter.com/your-twitter-handle](https://x.com/GulshanPunde))
 - [Portfolio](https://your-portfolio-link.com)
 
----
-
-Feel free to customize it further according to your preferences!
