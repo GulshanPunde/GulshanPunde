@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a knack
 
 ## 📫 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/gulshan-punde-106224252)
+- [LinkedIn](https://www.linkedin.com/in/gulshan-punde-106224252/)
 - [Twitter](https://x.com/GulshanPunde)
 - [Portfolio](https://your-portfolio-link.com)
 
