@@ -22,11 +22,11 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a knack
 
 ## 📈 GitHub Stats
 
-![Gulshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Gulshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GulshanPunde&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 
 - [LinkedIn](www.linkedin.com/in/gulshan-punde-106224252)
-- [Twitter]([https://twitter.com/your-twitter-handle](https://x.com/GulshanPunde))
+- [Twitter](https://x.com/GulshanPunde)
 - [Portfolio](https://your-portfolio-link.com)
 
