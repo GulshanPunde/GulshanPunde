@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a knack
 ## 🛠️ Technologies & Tools
 
 - **Front-end:** HTML, CSS, JavaScript, React, Bootstrap, Tailwind.
-- **Back-end:**  JEE(Jakarta Enterprise Edition) ,MySQL ,Oracle ,Spring, Spring-Boot.
+- **Back-end:**  JEE(Jakarta Enterprise Edition) ,MySQL ,Oracle ,Spring, Spring-Boot, microservices.
 - **Version Control:** Git, GitHub.
 - **Other Tools:** Docker, VsCode, Netbeans, IntelliJ IDEA.
 
